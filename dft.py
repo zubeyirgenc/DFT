@@ -60,6 +60,6 @@ if __name__ == "__main__":
 	wavf.write(out_h, fs, arr)
 	print(out_h + " has saved")
 
-	# sound = AudioSegment.from_wav(out_h)
-	# sound.export('myfile.mp3', format='mp3')
-	# print("mp3 format saved")
+	#sound = AudioSegment.from_wav(out_h)
+	#sound.export('myfile.mp3', format='mp3')
+	#print("mp3 format saved")
